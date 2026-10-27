@@ -1,8 +1,8 @@
 # Library Manager in C++
-> [NOTE]: THIS REPOSITORY IS ARCHIVED. POur voir les changements à venir aller dans le repo https/github.com/nXhermane/deep-dives/tree/master/fundamentals/c++/library-manager
+> [NOTE]: THIS REPOSITORY HAS BEEN ARCHIVED. To see upcoming changes, visit: https://github.com/nXhermane/deep-dives/tree/master/fundamentals/c++/library-manager
 ## Project Description
 
-This project is a simple library manager written in C++. It allows you to manage a collection of books by providing basic functionalities such as adding, deleting, searching, and displaying books. This project is designed for beginners in C++ who have not yet acquired advanced knowledge of the language.
+This project is a simple library manager written in C++. It allows you to manage a collection of books by providing basic functionalities such as adding, deleting, searching, and displaying books. [...]
 
 ## Features
 
@@ -80,4 +80,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-**Note**: This project is designed for beginners in C++ and aims to provide a practical introduction to the basic concepts of the language. It is recommended to thoroughly understand each part of the code before moving on to more complex projects.
+**Note**: This project is designed for beginners in C++ and aims to provide a practical introduction to the basic concepts of the language. It is recommended to thoroughly understand each part of the code before modifying it.
