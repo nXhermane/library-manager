@@ -1,6 +1,6 @@
 # Library Manager in C++
-> [NOTE]: THIS REPOSITORY HAS BEEN ARCHIVED. To see upcoming changes, visit: https://github.com/nXhermane/deep-dives/tree/master/fundamentals/c++/library-manager
-## Project Description
+> [!NOTE]
+>  THIS REPOSITORY HAS BEEN ARCHIVED. To see upcoming changes, visit: https://github.com/nXhermane/deep-dives/tree/main/fundamentals/c++/library-manager
 
 This project is a simple library manager written in C++. It allows you to manage a collection of books by providing basic functionalities such as adding, deleting, searching, and displaying books. [...]
 
