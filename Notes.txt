@@ -1,1 +1,1 @@
-Je suis au niveau de ReservationJsonRepository entrain d'implementer les methodes de loanFromfile dans le fichier sources 
+I am at the ReservationJsonRepository stage, currently implementing the loanFromFile methods in the source files.
